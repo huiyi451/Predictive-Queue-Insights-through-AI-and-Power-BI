@@ -1,0 +1,1001 @@
+﻿date,checkin_time,checkout_time,wait_time,scheduled_appointment,first_timer,reason_visit,specialty,gender,age,number_waiting
+17092023,1500,1530,30,no,no,consultation,Pediatric,male,3,3
+17092023,1530,1558,28,yes,yes,consultation,Gastroenterology,female,34,3
+17092023,1530,1555,25,yes,yes,consultation,Dermatology,female,65,2
+17092023,1530,1548,18,no,no,followup,Psychiatry,female,30,2
+17092023,1600,1620,20,yes,yes,consultation,Psychiatry,male,45,2
+17092023,1630,1650,20,yes,yes,followup,Psychiatry,female,37,2
+17092023,1630,1650,20,yes,yes,consultation,ENT,female,18,2
+17092023,1630,1650,20,no,no,followup,Pain Management,female,28,2
+17092023,1700,1714,14,yes,yes,followup,Geriatric,male,39,1
+17092023,1700,1714,14,yes,yes,consultation,Dermatology,male,72,1
+17092023,1700,1714,14,yes,yes,followup,Neurology,female,51,1
+17092023,1730,1745,15,no,no,followup,Urology,female,76,1
+17092023,1730,1748,18,no,no,followup,Urology,female,29,2
+17092023,1800,1810,10,no,no,followup,ENT,male,80,1
+17092023,1800,1810,10,no,no,followup,Rheumatology,female,35,1
+17092023,1400,1440,40,yes,yes,consultation,Neurology,male,40,5
+17092023,1400,1440,40,yes,yes,followup,ENT,male,42,5
+17092023,1500,1535,35,no,no,consultation,Rheumatology,male,50,5
+17092023,830,907,37,yes,yes,consultation,ENT,female,39,5
+17092023,830,900,30,yes,yes,consultation,Gastroenterology,female,22,3
+17092023,900,940,40,no,no,followup,Gastroenterology,female,66,5
+17092023,1030,1122,52,yes,yes,followup,Geriatric,female,49,7
+17092023,1030,1116,46,no,no,followup,ENT,female,53,7
+17092023,1100,1203,103,yes,yes,consultation,Orthopedic,male,36,9
+17092023,800,855,55,yes,yes,followup,Psychiatry,male,33,9
+17092023,800,838,38,no,no,followup,Allergy and Immunology,female,28,5
+17092023,800,855,55,yes,yes,consultation,Pain Management,male,21,9
+17092023,800,852,52,no,no,followup,Orthopedic,male,59,7
+17092023,800,855,55,no,no,followup,Orthopedic,male,78,9
+17092023,800,855,55,no,no,followup,Cardiology,male,38,9
+17092023,1100,1213,113,yes,yes,consultation,Rheumatology,male,56,12
+17092023,800,855,55,yes,yes,consultation,Pain Management,female,48,9
+17092023,800,852,52,yes,yes,consultation,Urology,female,20,7
+17092023,1100,1213,113,no,no,followup,Cardiology,female,67,12
+17092023,1100,1203,103,no,no,followup,Rheumatology,male,53,9
+17092023,1100,1203,103,no,no,followup,Neurology,male,57,9
+17092023,900,940,40,no,no,consultation,Psychiatry,male,79,5
+17092023,900,944,44,no,no,followup,Geriatric,female,55,6
+17092023,900,944,44,yes,yes,consultation,Oncology,male,78,6
+17092023,930,1025,55,no,no,consultation,Allergy and Immunology,male,43,9
+17092023,930,1025,55,yes,yes,consultation,Oncology,female,78,9
+17092023,1200,1329,129,yes,yes,followup,Rheumatology,female,79,13
+17092023,1200,1303,103,yes,yes,consultation,Psychiatry,male,51,9
+17092023,1200,1303,103,yes,yes,followup,Cardiology,male,22,9
+17092023,1200,1355,155,no,no,consultation,Dermatology,female,67,18
+17092023,1200,1340,140,no,no,followup,Rheumatology,male,45,15
+17092023,1200,1326,126,no,no,followup,Allergy and Immunology,female,53,13
+17092023,1200,1303,103,no,no,followup,Pediatric,female,3,9
+17092023,1200,1312,112,yes,yes,followup,Geriatric,female,36,12
+17092023,1200,1329,129,yes,yes,consultation,Oncology,male,34,13
+17092023,1200,1340,140,yes,yes,consultation,Gastroenterology,male,61,15
+17092023,1200,1303,103,yes,yes,consultation,Dermatology,male,26,9
+17092023,1200,1303,103,yes,yes,consultation,Pain Management,male,32,9
+17092023,1200,1303,103,no,no,consultation,Urology,male,56,9
+17092023,1200,1312,112,no,no,consultation,Orthopedic,female,20,12
+17092023,1200,1303,103,no,no,followup,Cardiology,male,35,9
+17092023,1000,1049,49,no,no,consultation,Orthopedic,male,52,7
+17092023,1000,1048,48,no,no,consultation,Geriatric,male,47,7
+17092023,1000,1048,48,yes,yes,followup,Cardiology,female,65,7
+17092023,1000,1111,111,yes,yes,consultation,Oncology,male,60,12
+17092023,1000,1111,111,yes,yes,consultation,Allergy and Immunology,male,55,12
+17092023,1000,1111,111,no,no,followup,Dermatology,female,22,12
+17092023,1000,1111,111,no,no,followup,Allergy and Immunology,female,55,12
+17092023,1000,1111,111,yes,yes,followup,Allergy and Immunology,male,61,12
+17092023,1000,1111,111,no,no,consultation,ENT,male,73,12
+17092023,1000,1111,111,yes,yes,consultation,Rheumatology,male,34,12
+17092023,1000,1111,111,no,no,followup,Psychiatry,male,31,12
+17092023,1000,1059,59,yes,yes,consultation,Pediatric,female,3,9
+17092023,1000,1104,104,no,no,consultation,Allergy and Immunology,male,58,9
+17092023,1000,1049,49,yes,yes,followup,Gastroenterology,female,63,7
+17092023,1000,1104,104,yes,yes,followup,Rheumatology,female,29,9
+17092023,1000,1048,48,no,no,consultation,Oncology,male,71,7
+17092023,1000,1104,104,yes,yes,consultation,Rheumatology,male,80,9
+17092023,1000,1102,102,no,no,followup,Cardiology,female,18,9
+17092023,1000,1043,43,yes,yes,consultation,Oncology,female,38,6
+17092023,1000,1102,102,no,no,followup,Dermatology,male,56,9
+17092023,1000,1102,102,no,no,followup,Pain Management,female,74,9
+17092023,1000,1102,102,no,no,followup,Oncology,male,76,9
+17092023,1000,1104,104,yes,yes,consultation,Dermatology,male,43,9
+17092023,1000,1043,43,no,no,followup,Rheumatology,male,73,6
+17092023,1000,1104,104,no,no,consultation,Cardiology,male,66,9
+17092023,1000,1104,104,no,no,followup,Psychiatry,male,36,9
+17092023,1000,1102,102,yes,yes,followup,Psychiatry,female,54,9
+17092023,1000,1043,43,no,no,followup,Allergy and Immunology,male,18,6
+17092023,1000,1103,103,no,no,consultation,Pain Management,male,50,9
+17092023,1000,1043,43,no,no,consultation,Urology,male,44,6
+17092023,1000,1102,102,yes,yes,consultation,Pain Management,male,22,9
+17092023,1000,1059,59,no,no,followup,Allergy and Immunology,female,36,9
+17092023,1000,1103,103,no,no,consultation,Pain Management,female,41,9
+17092023,1000,1103,103,no,no,consultation,Psychiatry,male,18,9
+17092023,1000,1103,103,yes,yes,followup,Neurology,female,24,9
+17092023,1000,1059,59,no,no,consultation,Dermatology,female,78,9
+17092023,1000,1102,102,no,no,consultation,Pediatric,female,3,9
+17092023,1000,1103,103,no,no,followup,Urology,male,80,9
+17092023,1000,1103,103,no,no,followup,Pain Management,male,39,9
+17092023,1000,1103,103,yes,yes,consultation,Psychiatry,male,46,9
+17092023,1000,1103,103,yes,yes,followup,Orthopedic,female,35,9
+17092023,1130,1220,50,yes,yes,consultation,ENT,male,72,7
+17092023,1130,1220,50,yes,yes,consultation,Geriatric,male,76,7
+17092023,1130,1255,125,no,no,followup,Rheumatology,male,20,13
+17092023,1130,1220,50,no,no,followup,Pain Management,male,45,7
+17092023,1130,1255,125,no,no,followup,Rheumatology,male,36,13
+17092023,1130,1228,58,yes,yes,followup,ENT,male,33,9
+17092023,1130,1340,210,yes,yes,consultation,Psychiatry,female,60,20
+17092023,1130,1255,125,yes,yes,followup,Pediatric,female,3,13
+17092023,830,910,40,no,no,followup,Geriatric,male,57,5
+17092023,830,907,37,yes,yes,followup,Rheumatology,male,68,5
+17092023,830,907,37,yes,yes,followup,Pediatric,female,3,5
+17092023,830,910,40,yes,yes,followup,Geriatric,female,31,5
+17092023,830,910,40,no,no,followup,Geriatric,male,74,5
+17092023,830,910,40,yes,yes,consultation,Oncology,male,60,5
+17092023,800,855,55,no,no,consultation,Pain Management,male,27,9
+17092023,800,845,45,no,no,consultation,Urology,male,35,6
+17092023,800,839,39,yes,yes,followup,Allergy and Immunology,male,61,5
+17092023,830,907,37,no,no,consultation,Psychiatry,male,52,5
+17092023,830,910,40,no,no,consultation,Pediatric,female,2,5
+17092023,830,855,25,no,no,consultation,ENT,female,44,2
+17092023,830,858,28,yes,yes,consultation,Allergy and Immunology,female,54,3
+17092023,830,910,40,no,no,followup,Allergy and Immunology,female,43,5
+17092023,830,921,51,no,no,consultation,Rheumatology,male,61,7
+17092023,830,848,18,no,no,followup,Oncology,male,73,2
+17092023,800,853,53,no,no,consultation,Allergy and Immunology,male,66,7
+17092023,800,855,55,no,no,followup,Rheumatology,male,44,9
+17092023,800,845,45,yes,yes,consultation,Allergy and Immunology,female,69,6
+17092023,830,855,25,yes,yes,consultation,Urology,female,27,2
+17092023,800,845,45,no,no,followup,Psychiatry,male,49,6
+17092023,830,855,25,yes,yes,consultation,ENT,male,51,2
+17092023,830,852,22,no,no,consultation,Oncology,female,37,2
+17092023,830,910,40,yes,yes,consultation,Gastroenterology,female,48,5
+17092023,830,910,40,yes,yes,followup,Oncology,female,68,5
+17092023,830,910,40,yes,yes,followup,Dermatology,female,59,5
+17092023,830,910,40,no,no,consultation,Pain Management,male,56,5
+17092023,1030,1140,110,no,no,followup,Geriatric,male,65,11
+17092023,930,1015,45,no,no,followup,Pediatric,male,2,6
+17092023,800,821,21,yes,yes,consultation,Pain Management,male,41,2
+17092023,800,829,29,no,no,followup,Allergy and Immunology,male,58,3
+17092023,800,821,21,no,no,consultation,Gastroenterology,female,65,2
+17092023,800,821,21,yes,yes,followup,Urology,female,64,2
+17092023,800,838,38,no,no,consultation,Geriatric,male,45,5
+17092023,800,832,32,yes,yes,followup,Dermatology,male,20,4
+17092023,800,829,29,yes,yes,consultation,Geriatric,female,49,3
+17092023,800,842,42,no,no,followup,Pediatric,female,2,6
+17092023,800,825,25,yes,yes,followup,Rheumatology,male,70,2
+17092023,800,820,20,yes,yes,consultation,Urology,female,31,2
+17092023,800,821,21,yes,yes,consultation,Pain Management,female,75,2
+17092023,800,838,38,yes,yes,followup,Gastroenterology,male,75,5
+17092023,800,821,21,no,no,followup,Pain Management,female,34,2
+17092023,800,838,38,yes,yes,followup,ENT,female,20,5
+17092023,800,809,9,yes,yes,followup,Neurology,male,21,1
+17092023,800,838,38,yes,yes,followup,Neurology,female,79,5
+17092023,800,821,21,yes,yes,followup,ENT,male,39,2
+17092023,800,825,25,yes,yes,consultation,Dermatology,female,38,2
+17092023,800,821,21,yes,yes,followup,Neurology,male,25,2
+17092023,800,821,21,yes,yes,consultation,Oncology,male,37,2
+17092023,800,852,52,no,no,followup,Geriatric,male,59,7
+17092023,800,825,25,yes,yes,consultation,Urology,male,51,2
+17092023,800,821,21,yes,yes,followup,Gastroenterology,male,40,2
+17092023,800,809,9,yes,yes,followup,Psychiatry,male,33,1
+17092023,800,824,24,yes,yes,consultation,Neurology,female,25,2
+17092023,800,821,21,no,no,consultation,Oncology,male,32,2
+17092023,800,809,9,yes,yes,followup,Allergy and Immunology,male,32,1
+17092023,800,829,29,yes,yes,followup,Pain Management,female,21,3
+17092023,800,821,21,no,no,followup,Gastroenterology,female,74,2
+17092023,800,821,21,yes,yes,consultation,Orthopedic,female,42,2
+17092023,800,821,21,yes,yes,followup,Neurology,female,18,2
+17092023,800,829,29,yes,yes,consultation,Cardiology,male,72,3
+17092023,800,852,52,yes,yes,followup,Oncology,male,60,7
+17092023,800,821,21,no,no,followup,Allergy and Immunology,female,63,2
+17092023,800,852,52,yes,yes,followup,Pediatric,female,5,7
+17092023,800,826,26,no,no,consultation,Allergy and Immunology,female,72,3
+17092023,800,826,26,no,no,consultation,Pediatric,female,5,3
+17092023,1330,1410,40,yes,yes,consultation,Rheumatology,male,29,5
+17092023,1330,1415,45,yes,yes,followup,Allergy and Immunology,female,38,6
+17092023,1330,1415,45,no,no,consultation,Neurology,female,67,6
+17092023,1330,1415,45,yes,yes,consultation,Neurology,female,64,6
+17092023,1330,1409,39,no,no,consultation,Cardiology,male,55,5
+17092023,1330,1415,45,no,no,followup,Geriatric,male,26,6
+17092023,1330,1415,45,yes,yes,consultation,Psychiatry,female,61,6
+17092023,1330,1415,45,no,no,consultation,Neurology,male,29,6
+17092023,1330,1415,45,yes,yes,followup,Rheumatology,male,31,6
+17092023,1330,1415,45,yes,yes,followup,Neurology,female,56,6
+17092023,1330,1409,39,no,no,consultation,Oncology,male,69,5
+17092023,1330,1415,45,no,no,consultation,Geriatric,female,24,6
+17092023,1330,1415,45,no,no,followup,Orthopedic,male,43,6
+17092023,1330,1415,45,yes,yes,followup,Pediatric,male,5,6
+17092023,1330,1415,45,no,no,consultation,Psychiatry,male,27,6
+17092023,1330,1415,45,yes,yes,followup,Cardiology,male,39,6
+17092023,1030,1145,115,yes,yes,followup,Orthopedic,male,35,12
+17092023,1030,1155,125,yes,yes,consultation,Urology,male,22,13
+17092023,1030,1140,110,no,no,consultation,Orthopedic,male,32,11
+17092023,1030,1122,52,no,no,followup,Neurology,male,67,7
+17092023,1030,1155,125,yes,yes,followup,Rheumatology,male,35,13
+17092023,1030,1131,101,no,no,consultation,Urology,male,48,9
+17092023,1030,1131,101,no,no,followup,Dermatology,female,26,9
+17092023,1030,1155,125,no,no,followup,Pediatric,male,5,13
+17092023,1030,1155,125,yes,yes,consultation,Orthopedic,male,45,13
+17092023,1030,1116,46,yes,yes,consultation,Neurology,female,51,7
+17092023,1030,1200,130,no,no,consultation,Urology,male,74,14
+17092023,1030,1200,130,yes,yes,followup,Orthopedic,female,54,14
+17092023,1030,1201,131,yes,yes,followup,Psychiatry,female,49,14
+17092023,1030,1131,101,yes,yes,consultation,Orthopedic,female,41,9
+17092023,1030,1201,131,yes,yes,followup,Psychiatry,male,24,14
+17092023,1030,1201,131,no,no,followup,Orthopedic,female,32,14
+17092023,1030,1122,52,yes,yes,followup,Urology,male,63,7
+17092023,1030,1116,46,no,no,followup,Oncology,female,79,7
+17092023,1030,1131,101,no,no,consultation,Psychiatry,female,79,9
+17092023,1030,1201,131,yes,yes,consultation,Allergy and Immunology,male,22,14
+17092023,1030,1201,131,no,no,consultation,Geriatric,female,44,14
+17092023,1030,1201,131,yes,yes,consultation,Psychiatry,female,51,14
+17092023,1030,1145,115,yes,yes,followup,Rheumatology,male,54,12
+17092023,1030,1201,131,yes,yes,consultation,Geriatric,male,24,14
+17092023,1030,1201,131,no,no,followup,Neurology,female,42,14
+17092023,1030,1201,131,yes,yes,consultation,Allergy and Immunology,male,58,14
+17092023,1030,1201,131,yes,yes,followup,Orthopedic,female,32,14
+17092023,1030,1201,131,no,no,consultation,Rheumatology,male,60,14
+17092023,1030,1145,115,yes,yes,consultation,Geriatric,male,19,12
+17092023,1030,1122,52,no,no,followup,Geriatric,female,78,7
+17092023,800,852,52,yes,yes,followup,Cardiology,male,26,7
+17092023,800,838,38,no,no,followup,Oncology,male,21,5
+17092023,800,845,45,no,no,consultation,Rheumatology,male,66,6
+17092023,800,845,45,yes,yes,consultation,Cardiology,female,65,6
+17092023,800,845,45,no,no,followup,Urology,female,57,6
+17092023,800,838,38,yes,yes,consultation,Rheumatology,female,66,5
+17092023,800,845,45,yes,yes,consultation,Gastroenterology,male,53,6
+17092023,800,838,38,yes,yes,followup,Urology,male,46,5
+17092023,800,845,45,no,no,followup,Allergy and Immunology,female,37,6
+17092023,800,845,45,yes,yes,followup,Pediatric,male,5,6
+17092023,800,845,45,no,no,followup,Rheumatology,female,66,6
+17092023,800,852,52,no,no,followup,Geriatric,male,49,7
+17092023,800,845,45,no,no,consultation,Dermatology,male,42,6
+17092023,1230,1340,110,yes,yes,followup,Pain Management,male,37,11
+17092023,1230,1303,33,no,no,followup,Oncology,male,20,4
+17092023,1230,1308,38,yes,yes,followup,Rheumatology,male,49,5
+17092023,1230,1340,110,no,no,followup,Rheumatology,female,76,11
+17092023,1230,1340,110,yes,yes,followup,Urology,female,18,11
+17092023,1230,1329,59,no,no,followup,Pediatric,female,5,9
+17092023,1230,1326,56,yes,yes,followup,Cardiology,female,34,9
+17092023,1230,1312,42,yes,yes,consultation,ENT,female,20,6
+17092023,1130,1326,156,yes,yes,followup,Allergy and Immunology,female,67,18
+17092023,1130,1305,135,no,no,followup,Dermatology,male,20,14
+17092023,1130,1305,135,no,no,followup,Orthopedic,male,75,14
+17092023,1130,1220,50,no,no,consultation,ENT,female,30,7
+17092023,1130,1243,113,yes,yes,consultation,Dermatology,male,72,12
+17092023,1130,1257,127,yes,yes,consultation,Geriatric,female,79,13
+17092023,1130,1305,135,yes,yes,consultation,Pain Management,male,68,14
+17092023,1130,1220,50,no,no,followup,Pain Management,male,67,7
+17092023,1130,1257,127,yes,yes,consultation,Rheumatology,female,78,13
+17092023,1130,1340,210,yes,yes,consultation,Rheumatology,male,68,20
+17092023,1130,1220,50,yes,yes,followup,Psychiatry,male,57,7
+17092023,1130,1305,135,no,no,followup,Urology,male,19,14
+17092023,1130,1315,145,yes,yes,consultation,Cardiology,male,62,16
+17092023,1130,1220,50,no,no,followup,Allergy and Immunology,female,34,7
+17092023,1130,1315,145,no,no,followup,Rheumatology,female,38,16
+17092023,1130,1325,155,no,no,consultation,Pediatric,female,6,17
+17092023,1130,1228,58,no,no,followup,Rheumatology,female,41,9
+17092023,1130,1340,210,no,no,consultation,Neurology,female,26,20
+17092023,1130,1214,44,yes,yes,followup,Oncology,female,52,6
+17092023,1130,1335,205,no,no,consultation,Pain Management,female,50,19
+17092023,1300,1355,55,no,no,followup,Dermatology,male,27,9
+17092023,1400,1440,40,yes,yes,followup,Psychiatry,female,45,5
+17092023,1400,1440,40,yes,yes,followup,Dermatology,female,76,5
+17092023,1500,1535,35,yes,yes,consultation,Geriatric,male,41,4
+17092023,1400,1440,40,yes,yes,followup,Oncology,male,58,5
+17092023,1400,1435,35,no,no,followup,Psychiatry,female,52,4
+17092023,1500,1535,35,no,no,consultation,Geriatric,female,23,4
+17092023,1400,1435,35,no,no,consultation,Dermatology,female,29,4
+17092023,1400,1435,35,yes,yes,followup,Psychiatry,male,64,4
+17092023,1500,1535,35,yes,yes,followup,Dermatology,male,66,4
+17092023,1400,1435,35,no,no,followup,Neurology,male,59,4
+17092023,1400,1435,35,yes,yes,consultation,Orthopedic,male,21,4
+17092023,1500,1535,35,yes,yes,consultation,Gastroenterology,male,27,4
+17092023,1400,1435,35,yes,yes,followup,Geriatric,male,53,4
+17092023,1400,1435,35,no,no,consultation,Dermatology,female,34,4
+17092023,1500,1535,35,yes,yes,consultation,Oncology,female,19,4
+17092023,1500,1530,30,yes,yes,consultation,Pediatric,female,6,3
+17092023,1530,1558,28,yes,yes,consultation,Pain Management,male,57,3
+17092023,1530,1555,25,no,no,followup,Allergy and Immunology,male,77,2
+17092023,1530,1548,18,no,no,followup,Urology,male,24,2
+17092023,1500,1530,30,yes,yes,consultation,Urology,female,39,3
+17092023,1530,1558,28,yes,yes,consultation,Psychiatry,female,21,3
+17092023,1530,1556,26,yes,yes,consultation,Pain Management,male,69,3
+17092023,1530,1548,18,yes,yes,consultation,Pediatric,male,6,2
+17092023,1500,1530,30,no,no,consultation,Geriatric,male,28,3
+17092023,1530,1558,28,no,no,followup,ENT,male,50,3
+17092023,1530,1555,25,yes,yes,consultation,Allergy and Immunology,female,61,2
+17092023,1530,1548,18,no,no,followup,Dermatology,female,47,2
+17092023,1500,1530,30,no,no,consultation,Urology,male,52,3
+17092023,1600,1620,20,yes,yes,consultation,Oncology,female,43,2
+17092023,1630,1650,20,yes,yes,consultation,Pain Management,female,62,2
+17092023,1630,1650,20,no,no,consultation,Cardiology,male,27,2
+17092023,1630,1650,20,yes,yes,followup,Pediatric,male,6,2
+17092023,1600,1620,20,yes,yes,followup,Oncology,male,52,2
+17092023,1630,1650,20,no,no,consultation,Orthopedic,female,45,2
+17092023,1630,1650,20,yes,yes,followup,Oncology,female,24,2
+17092023,1630,1650,20,yes,yes,consultation,Allergy and Immunology,male,54,2
+17092023,1600,1620,20,no,no,followup,Allergy and Immunology,female,53,2
+17092023,1630,1650,20,yes,yes,followup,Rheumatology,female,26,2
+17092023,1630,1653,23,no,no,consultation,Pediatric,male,6,2
+17092023,1630,1653,23,yes,yes,consultation,Geriatric,female,38,2
+17092023,1500,1535,35,no,no,followup,Dermatology,female,44,4
+17092023,1500,1532,32,no,no,consultation,Orthopedic,female,71,4
+17092023,1500,1532,32,no,no,followup,Urology,male,75,4
+17092023,1330,1409,39,no,no,followup,Dermatology,female,18,5
+17092023,1330,1410,40,no,no,followup,Oncology,female,65,5
+17092023,1330,1410,40,yes,yes,consultation,Allergy and Immunology,male,55,5
+17092023,1330,1410,40,no,no,followup,Allergy and Immunology,female,43,5
+17092023,1330,1410,40,no,no,consultation,Allergy and Immunology,male,36,5
+17092023,1330,1410,40,no,no,consultation,Pediatric,female,4,5
+17092023,1330,1409,39,yes,yes,consultation,Cardiology,male,68,5
+17092023,1330,1410,40,no,no,consultation,Gastroenterology,male,49,5
+17092023,1330,1420,50,yes,yes,followup,Psychiatry,male,64,7
+17092023,1230,1308,38,no,no,followup,Geriatric,female,73,5
+17092023,1230,1340,110,yes,yes,consultation,Pain Management,male,79,11
+17092023,1230,1340,110,no,no,followup,Pain Management,male,59,11
+17092023,1230,1329,59,yes,yes,consultation,Allergy and Immunology,male,59,9
+17092023,1230,1326,56,no,no,followup,Orthopedic,female,55,9
+17092023,1230,1312,42,yes,yes,followup,ENT,male,45,6
+17092023,1300,1355,55,no,no,followup,Pain Management,female,80,9
+17092023,1230,1308,38,yes,yes,consultation,Dermatology,female,74,5
+17092023,1230,1340,110,yes,yes,consultation,Allergy and Immunology,male,19,11
+17092023,1230,1340,110,yes,yes,consultation,Dermatology,male,25,11
+17092023,1200,1329,129,no,no,consultation,Urology,female,21,13
+17092023,1200,1326,126,no,no,consultation,Oncology,female,49,13
+17092023,1200,1312,112,yes,yes,followup,Rheumatology,male,68,12
+17092023,1300,1355,55,yes,yes,consultation,Pediatric,female,4,9
+17092023,1300,1355,55,no,no,consultation,Gastroenterology,female,45,9
+17092023,1300,1345,45,yes,yes,followup,ENT,female,52,6
+17092023,1500,1530,30,no,no,consultation,Orthopedic,female,74,3
+17092023,1600,1620,20,no,no,followup,Rheumatology,male,48,2
+17092023,1630,1653,23,no,no,consultation,Urology,male,34,2
+17092023,1630,1653,23,yes,yes,consultation,Allergy and Immunology,female,39,2
+17092023,1630,1653,23,yes,yes,consultation,Allergy and Immunology,female,50,2
+17092023,1700,1714,14,yes,yes,followup,Oncology,male,37,1
+17092023,1700,1714,14,yes,yes,consultation,Rheumatology,female,22,1
+17092023,1700,1714,14,no,no,followup,ENT,male,39,1
+17092023,1730,1749,19,yes,yes,followup,Gastroenterology,female,33,2
+17092023,1730,1749,19,yes,yes,followup,Psychiatry,male,61,2
+17092023,1800,1806,6,yes,yes,consultation,Gastroenterology,male,24,1
+17092023,1800,1807,7,yes,yes,followup,Psychiatry,male,25,1
+17092023,1500,1532,32,yes,yes,followup,ENT,female,19,4
+17092023,830,907,37,no,no,followup,Orthopedic,male,23,5
+17092023,830,900,30,no,no,consultation,Gastroenterology,male,49,3
+17092023,930,1015,45,yes,yes,consultation,Rheumatology,male,65,6
+17092023,1030,1122,52,yes,yes,consultation,Urology,female,53,7
+17092023,1030,1122,52,no,no,consultation,Cardiology,female,53,7
+17092023,1100,1203,103,no,no,consultation,Geriatric,female,71,9
+17092023,800,843,43,no,no,consultation,Pain Management,female,40,6
+17092023,800,838,38,no,no,consultation,Dermatology,female,77,5
+17092023,800,843,43,yes,yes,consultation,Neurology,female,25,6
+17092023,800,852,52,yes,yes,consultation,Neurology,male,77,7
+17092023,800,843,43,no,no,followup,Gastroenterology,male,50,6
+17092023,800,843,43,no,no,followup,Oncology,female,72,6
+17092023,1100,1213,113,no,no,followup,Urology,female,42,12
+17092023,800,843,43,no,no,followup,Urology,female,73,6
+17092023,800,852,52,no,no,consultation,Urology,male,67,7
+17092023,800,843,43,yes,yes,followup,Rheumatology,female,56,6
+17092023,800,852,52,yes,yes,consultation,Orthopedic,female,70,7
+17092023,800,838,38,yes,yes,consultation,Pediatric,female,4,5
+17092023,1100,1213,113,no,no,consultation,Orthopedic,male,26,12
+17092023,800,824,24,no,no,followup,ENT,female,72,2
+17092023,800,843,43,yes,yes,consultation,Pediatric,female,4,6
+17092023,800,843,43,yes,yes,consultation,Oncology,male,70,6
+17092023,800,843,43,yes,yes,consultation,Pediatric,female,4,6
+17092023,800,843,43,no,no,followup,Rheumatology,female,60,6
+17092023,800,843,43,no,no,consultation,Geriatric,female,36,6
+17092023,800,852,52,no,no,consultation,Geriatric,female,24,7
+17092023,800,843,43,no,no,consultation,Pediatric,female,4,6
+17092023,800,843,43,yes,yes,followup,Pain Management,male,21,6
+17092023,1100,1203,103,yes,yes,consultation,Rheumatology,male,47,9
+17092023,1100,1203,103,no,no,followup,Urology,female,28,9
+17092023,900,950,50,no,no,consultation,Rheumatology,female,45,7
+17092023,900,950,50,no,no,followup,Allergy and Immunology,male,25,7
+17092023,900,950,50,no,no,followup,Oncology,male,35,7
+17092023,900,950,50,no,no,followup,Allergy and Immunology,female,32,7
+17092023,900,950,50,yes,yes,followup,Gastroenterology,male,53,7
+17092023,1200,1329,129,no,no,followup,Urology,female,23,13
+17092023,1200,1308,108,no,no,followup,Allergy and Immunology,female,62,9
+17092023,1200,1308,108,no,no,consultation,ENT,male,79,9
+17092023,1200,1355,155,no,no,followup,Psychiatry,female,57,17
+17092023,1200,1340,140,no,no,consultation,Gastroenterology,male,19,15
+17092023,1200,1326,126,no,no,consultation,Gastroenterology,male,50,13
+17092023,1200,1308,108,yes,yes,followup,Oncology,male,40,9
+17092023,1200,1312,112,no,no,consultation,Pediatric,female,4,12
+17092023,1200,1329,129,no,no,followup,Gastroenterology,male,69,13
+17092023,1200,1340,140,no,no,followup,Cardiology,male,57,15
+17092023,1200,1308,108,no,no,consultation,Orthopedic,female,75,9
+17092023,1200,1308,108,no,no,followup,Dermatology,female,50,9
+17092023,1200,1308,108,no,no,followup,Pain Management,female,25,9
+17092023,1200,1312,112,yes,yes,consultation,Pediatric,female,4,12
+17092023,1200,1308,108,no,no,consultation,Geriatric,female,26,9
+17092023,1000,1059,59,yes,yes,consultation,Urology,female,77,9
+17092023,1000,1059,59,yes,yes,followup,Pediatric,female,4,9
+17092023,1000,1059,59,yes,yes,consultation,Rheumatology,female,70,9
+17092023,1000,1059,59,yes,yes,consultation,Oncology,female,32,9
+17092023,1000,1059,59,yes,yes,consultation,Neurology,male,31,9
+17092023,1000,1059,59,no,no,consultation,Psychiatry,female,21,9
+17092023,1000,1059,59,no,no,consultation,Rheumatology,male,48,9
+17092023,1000,1059,59,yes,yes,followup,Orthopedic,male,40,9
+17092023,1000,1059,59,yes,yes,followup,Urology,female,30,9
+17092023,1000,1059,59,yes,yes,followup,Allergy and Immunology,male,78,9
+17092023,1000,1059,59,no,no,followup,Orthopedic,female,42,9
+17092023,1000,1059,59,yes,yes,followup,Pain Management,male,40,9
+17092023,1000,1059,59,no,no,consultation,Gastroenterology,female,60,9
+17092023,1000,1053,53,no,no,followup,Gastroenterology,female,65,7
+17092023,1000,1053,53,yes,yes,followup,Oncology,male,75,7
+17092023,1000,1053,53,yes,yes,followup,Neurology,male,58,7
+17092023,1000,1053,53,yes,yes,consultation,ENT,male,52,7
+17092023,1000,1053,53,yes,yes,consultation,Geriatric,female,21,7
+17092023,1000,1053,53,no,no,followup,Geriatric,female,38,7
+17092023,1000,1053,53,yes,yes,followup,Geriatric,male,42,7
+17092023,1000,1053,53,yes,yes,consultation,Cardiology,female,63,7
+17092023,1000,1053,53,no,no,consultation,Geriatric,female,49,7
+17092023,1000,1104,104,no,no,followup,Orthopedic,female,28,9
+17092023,1000,1053,53,yes,yes,followup,Gastroenterology,male,27,7
+17092023,1000,1104,104,yes,yes,followup,Gastroenterology,male,23,9
+17092023,1000,1104,104,yes,yes,consultation,Cardiology,female,61,9
+17092023,1000,1102,102,no,no,followup,Cardiology,male,26,9
+17092023,1000,1053,53,no,no,followup,Orthopedic,female,70,7
+17092023,1000,1103,103,yes,yes,followup,Orthopedic,female,30,9
+17092023,1000,1053,53,no,no,consultation,Orthopedic,female,72,7
+17092023,1000,1102,102,yes,yes,followup,Pediatric,female,4,9
+17092023,1000,1059,59,no,no,consultation,Geriatric,female,71,9
+17092023,1000,1103,103,no,no,consultation,Allergy and Immunology,male,53,9
+17092023,1000,1103,103,yes,yes,consultation,Pediatric,male,4,9
+17092023,1000,1103,103,no,no,consultation,Pediatric,female,4,9
+17092023,1000,1103,103,no,no,followup,ENT,male,47,9
+17092023,1000,1103,103,no,no,consultation,Rheumatology,female,35,9
+17092023,1000,1103,103,yes,yes,consultation,Cardiology,female,59,9
+17092023,1000,1103,103,no,no,followup,Neurology,male,61,9
+17092023,1000,1103,103,yes,yes,followup,Oncology,male,64,9
+17092023,1000,1103,103,no,no,consultation,Pediatric,male,4,9
+17092023,1130,1225,55,yes,yes,consultation,Rheumatology,female,27,9
+17092023,1130,1225,55,no,no,followup,Cardiology,male,61,9
+17092023,1130,1255,125,yes,yes,consultation,Psychiatry,male,53,13
+17092023,1130,1225,55,yes,yes,followup,Dermatology,female,25,9
+17092023,1130,1255,125,no,no,consultation,Urology,male,66,13
+17092023,1130,1228,58,no,no,followup,Oncology,male,65,9
+17092023,1130,1340,210,yes,yes,followup,Pediatric,female,4,20
+17092023,1130,1255,125,no,no,consultation,Cardiology,male,54,13
+17092023,830,910,40,yes,yes,followup,Cardiology,male,67,5
+17092023,830,907,37,no,no,consultation,ENT,female,25,5
+17092023,830,907,37,no,no,consultation,ENT,male,71,5
+17092023,830,910,40,no,no,consultation,Orthopedic,female,48,5
+17092023,830,910,40,no,no,consultation,Pediatric,female,4,5
+17092023,830,910,40,yes,yes,followup,Geriatric,female,43,5
+17092023,830,907,37,no,no,consultation,Cardiology,female,65,5
+17092023,830,910,40,yes,yes,followup,Rheumatology,male,48,5
+17092023,830,855,25,yes,yes,followup,Rheumatology,female,80,2
+17092023,1030,1122,52,no,no,followup,Pediatric,male,4,7
+17092023,930,1015,45,yes,yes,consultation,Oncology,female,19,6
+17092023,1030,1122,52,no,no,consultation,Neurology,male,36,7
+17092023,1030,1122,52,no,no,consultation,Pediatric,female,4,7
+17092023,1030,1122,52,yes,yes,consultation,Pediatric,female,4,7
+17092023,1030,1122,52,no,no,followup,Allergy and Immunology,male,71,7
+17092023,1030,1122,52,no,no,consultation,Pain Management,female,47,7
+17092023,1030,1122,52,yes,yes,followup,Allergy and Immunology,male,47,7
+17092023,1030,1122,52,yes,yes,consultation,Psychiatry,male,37,7
+17092023,1030,1122,52,no,no,followup,Orthopedic,male,48,7
+17092023,1030,1155,125,no,no,consultation,Urology,female,48,13
+17092023,1030,1116,46,no,no,consultation,Psychiatry,female,50,7
+17092023,1030,1155,125,no,no,followup,Cardiology,female,36,13
+17092023,1030,1155,125,yes,yes,consultation,Orthopedic,male,37,13
+17092023,1030,1155,125,no,no,followup,Gastroenterology,male,52,13
+17092023,1030,1155,125,yes,yes,followup,Pain Management,male,55,13
+17092023,1030,1155,125,no,no,consultation,Rheumatology,male,26,13
+17092023,1030,1155,125,yes,yes,consultation,Cardiology,male,79,13
+17092023,1030,1155,125,yes,yes,consultation,Psychiatry,female,55,13
+17092023,1030,1155,125,yes,yes,followup,Orthopedic,male,75,13
+17092023,1030,1155,125,no,no,followup,Urology,male,58,13
+17092023,1030,1155,125,yes,yes,followup,Pediatric,male,4,13
+17092023,1030,1200,130,no,no,consultation,Cardiology,male,51,14
+17092023,1030,1131,101,yes,yes,followup,ENT,female,38,9
+17092023,1030,1200,130,no,no,followup,Oncology,female,27,14
+17092023,1030,1200,130,no,no,followup,Orthopedic,male,52,14
+17092023,1030,1200,130,no,no,followup,Pain Management,male,72,14
+17092023,1030,1201,131,yes,yes,followup,Urology,female,74,14
+17092023,1030,1201,131,no,no,consultation,Allergy and Immunology,female,21,14
+17092023,1030,1201,131,yes,yes,followup,Oncology,male,61,14
+17092023,1030,1201,131,yes,yes,followup,Rheumatology,male,30,14
+17092023,1030,1201,131,yes,yes,followup,Orthopedic,female,31,14
+17092023,1030,1201,131,yes,yes,consultation,Orthopedic,female,75,14
+17092023,1200,1340,140,yes,yes,followup,Gastroenterology,male,24,15
+17092023,1200,1308,108,no,no,followup,Pain Management,female,25,9
+17092023,1200,1308,108,no,no,consultation,Allergy and Immunology,female,48,9
+17092023,1200,1340,140,yes,yes,consultation,Pain Management,female,21,15
+17092023,1200,1340,140,no,no,followup,Orthopedic,female,78,15
+17092023,1200,1329,129,yes,yes,followup,Urology,female,19,13
+17092023,1200,1326,126,yes,yes,consultation,Pediatric,male,4,13
+17092023,1200,1312,112,no,no,consultation,Neurology,male,65,12
+17092023,1130,1255,125,yes,yes,followup,Pediatric,male,4,13
+17092023,1130,1255,125,no,no,followup,Psychiatry,male,43,13
+17092023,1130,1255,125,no,no,followup,Allergy and Immunology,male,57,13
+17092023,1130,1255,125,yes,yes,followup,Dermatology,female,42,13
+17092023,1130,1255,125,no,no,followup,Cardiology,female,21,13
+17092023,1130,1255,125,no,no,followup,Rheumatology,female,73,13
+17092023,1130,1255,125,no,no,followup,Rheumatology,male,67,13
+17092023,1130,1255,125,yes,yes,followup,Allergy and Immunology,male,55,13
+17092023,1130,1257,127,no,no,consultation,Dermatology,male,43,13
+17092023,1130,1257,127,yes,yes,followup,Oncology,male,79,13
+17092023,1130,1257,127,yes,yes,consultation,Pediatric,female,4,13
+17092023,1130,1257,127,no,no,consultation,Psychiatry,male,33,13
+17092023,1130,1257,127,no,no,followup,Dermatology,male,33,13
+17092023,1130,1257,127,no,no,consultation,Cardiology,male,26,13
+17092023,1130,1257,127,yes,yes,consultation,Rheumatology,female,61,13
+17092023,1130,1257,127,no,no,consultation,Geriatric,male,61,13
+17092023,1130,1228,58,no,no,consultation,Allergy and Immunology,female,67,9
+17092023,1130,1340,210,yes,yes,followup,Dermatology,female,56,20
+17092023,1130,1224,54,no,no,followup,Neurology,female,62,7
+17092023,1130,1335,205,yes,yes,consultation,Neurology,female,80,19
+17092023,1300,1345,45,no,no,consultation,Cardiology,female,31,6
+17092023,1500,1532,32,no,no,consultation,Pain Management,female,20,4
+17092023,1430,1500,30,yes,yes,consultation,Cardiology,female,64,3
+17092023,1430,1503,33,yes,yes,consultation,Pediatric,male,2,4
+17092023,1500,1532,32,yes,yes,consultation,Oncology,male,40,4
+17092023,1430,1500,30,no,no,followup,Urology,female,52,3
+17092023,1430,1503,33,no,no,followup,Pain Management,male,72,4
+17092023,1500,1532,32,yes,yes,followup,Neurology,female,31,4
+17092023,1430,1500,30,yes,yes,followup,Oncology,female,74,3
+17092023,1430,1503,33,no,no,followup,Pediatric,male,2,4
+17092023,1500,1532,32,yes,yes,consultation,Neurology,female,19,4
+17092023,1430,1500,30,no,no,followup,Dermatology,female,44,3
+17092023,1430,1503,33,no,no,consultation,Allergy and Immunology,female,34,4
+17092023,1500,1532,32,yes,yes,consultation,ENT,male,40,4
+17092023,1500,1530,30,no,no,followup,Rheumatology,male,43,3
+17092023,1500,1530,30,yes,yes,consultation,Gastroenterology,male,23,3
+17092023,1600,1620,20,no,no,followup,Pediatric,male,2,2
+17092023,1630,1653,23,yes,yes,followup,Allergy and Immunology,female,44,2
+17092023,1630,1653,23,no,no,followup,Rheumatology,female,44,2
+17092023,1630,1648,18,yes,yes,followup,Cardiology,male,53,2
+17092023,1600,1620,20,yes,yes,consultation,Oncology,female,43,2
+17092023,1630,1648,18,no,no,followup,Gastroenterology,male,29,2
+17092023,1630,1648,18,yes,yes,followup,Rheumatology,female,60,2
+17092023,1600,1620,20,no,no,followup,Rheumatology,female,73,2
+17092023,1230,1409,139,yes,yes,followup,Neurology,male,44,15
+17092023,1230,1409,139,yes,yes,consultation,Pediatric,male,2,15
+17092023,1300,1345,45,yes,yes,consultation,Oncology,male,40,6
+17092023,1230,1409,139,yes,yes,followup,Allergy and Immunology,male,27,15
+17092023,1230,1409,139,yes,yes,followup,Geriatric,female,72,15
+17092023,1230,1400,130,yes,yes,consultation,ENT,female,21,14
+17092023,1230,1400,130,yes,yes,consultation,Urology,male,69,14
+17092023,1230,1400,130,yes,yes,consultation,Rheumatology,male,56,14
+17092023,1230,1409,139,no,no,followup,Oncology,male,18,15
+17092023,1300,1345,45,no,no,followup,Psychiatry,male,38,6
+17092023,1300,1345,45,no,no,followup,Allergy and Immunology,female,21,6
+17092023,1300,1345,45,yes,yes,consultation,Cardiology,male,71,6
+17092023,1600,1620,20,yes,yes,consultation,Allergy and Immunology,female,39,2
+17092023,1700,1714,14,no,no,followup,Psychiatry,female,29,1
+17092023,1700,1714,14,no,no,followup,Geriatric,female,27,1
+17092023,1700,1714,14,yes,yes,consultation,Allergy and Immunology,male,63,1
+17092023,1730,1745,15,yes,yes,followup,Rheumatology,female,65,1
+17092023,1730,1748,18,no,no,followup,Psychiatry,male,19,2
+17092023,1800,1810,10,no,no,followup,Orthopedic,female,71,1
+17092023,1800,1810,10,no,no,consultation,ENT,female,36,1
+17092023,1400,1440,40,no,no,consultation,Oncology,male,74,5
+17092023,1400,1440,40,no,no,followup,Dermatology,male,22,5
+17092023,900,940,40,yes,yes,followup,Urology,male,80,5
+17092023,1100,1203,103,yes,yes,followup,Geriatric,female,20,9
+17092023,1100,1213,113,yes,yes,followup,Rheumatology,male,42,12
+17092023,1100,1213,113,no,no,followup,ENT,male,77,12
+17092023,1100,1203,103,no,no,consultation,Gastroenterology,female,34,9
+17092023,1100,1203,103,yes,yes,consultation,Neurology,female,46,9
+17092023,900,940,40,yes,yes,consultation,Pain Management,female,68,5
+17092023,900,944,44,no,no,followup,Oncology,male,36,6
+17092023,900,944,44,no,no,consultation,Allergy and Immunology,male,54,6
+17092023,930,1025,55,no,no,consultation,Rheumatology,female,66,9
+17092023,930,1025,55,yes,yes,consultation,Oncology,male,70,9
+17092023,1200,1329,129,yes,yes,followup,Orthopedic,female,64,13
+17092023,1200,1303,103,no,no,followup,Oncology,male,63,9
+17092023,1200,1303,103,no,no,consultation,Rheumatology,female,37,9
+17092023,1200,1355,155,no,no,followup,Pain Management,female,39,17
+17092023,1200,1340,140,yes,yes,followup,Neurology,male,67,15
+17092023,1200,1326,126,no,no,followup,Oncology,female,35,13
+17092023,1200,1303,103,no,no,consultation,Allergy and Immunology,male,22,9
+17092023,1200,1312,112,no,no,consultation,Dermatology,male,40,12
+17092023,1200,1329,129,yes,yes,followup,Urology,male,21,13
+17092023,1200,1340,140,yes,yes,followup,Rheumatology,male,23,15
+17092023,1200,1303,103,yes,yes,consultation,ENT,male,20,9
+17092023,1200,1303,103,no,no,followup,Oncology,male,29,9
+17092023,1200,1303,103,yes,yes,followup,Rheumatology,female,45,9
+17092023,1200,1312,112,yes,yes,consultation,Pediatric,male,2,12
+17092023,1200,1303,103,yes,yes,followup,Urology,female,40,9
+17092023,1000,1049,49,yes,yes,followup,Pain Management,male,52,7
+17092023,1000,1048,48,yes,yes,followup,Pediatric,female,2,7
+17092023,1000,1048,48,no,no,followup,Allergy and Immunology,female,79,7
+17092023,1000,1111,111,yes,yes,consultation,Neurology,male,75,12
+17092023,1000,1111,111,yes,yes,consultation,Psychiatry,female,60,12
+17092023,1000,1111,111,yes,yes,followup,Pain Management,female,58,12
+17092023,1000,1111,111,yes,yes,followup,Pediatric,female,2,12
+17092023,1000,1111,111,yes,yes,followup,Oncology,male,68,12
+17092023,1130,1220,50,yes,yes,followup,Cardiology,female,53,7
+17092023,1130,1220,50,no,no,followup,ENT,male,48,7
+17092023,1130,1255,125,yes,yes,consultation,Psychiatry,male,46,13
+17092023,1130,1220,50,no,no,followup,Rheumatology,female,22,7
+17092023,1130,1255,125,yes,yes,followup,Oncology,male,31,13
+17092023,1130,1228,58,yes,yes,followup,Cardiology,female,40,9
+17092023,1130,1340,210,yes,yes,consultation,Geriatric,male,53,20
+17092023,1130,1255,125,yes,yes,consultation,Neurology,female,45,13
+17092023,830,855,25,yes,yes,consultation,Neurology,female,75,2
+17092023,830,858,28,yes,yes,followup,Pain Management,female,47,3
+17092023,830,910,40,no,no,followup,Oncology,male,26,5
+17092023,830,921,51,no,no,followup,Psychiatry,male,32,7
+17092023,830,848,18,yes,yes,followup,Rheumatology,male,33,2
+17092023,830,855,25,yes,yes,consultation,Allergy and Immunology,female,36,2
+17092023,830,855,25,yes,yes,consultation,Dermatology,female,67,2
+17092023,830,852,22,yes,yes,followup,Psychiatry,male,33,2
+17092023,830,910,40,no,no,followup,Psychiatry,male,30,5
+17092023,830,910,40,yes,yes,followup,Pain Management,male,63,5
+17092023,830,910,40,no,no,followup,Orthopedic,female,54,5
+17092023,830,910,40,no,no,followup,Geriatric,female,75,5
+17092023,930,1015,45,no,no,followup,ENT,female,60,6
+17092023,1230,1340,140,yes,yes,consultation,Rheumatology,male,60,15
+17092023,1230,1303,103,no,no,followup,Psychiatry,female,26,9
+17092023,1230,1308,108,yes,yes,followup,Pediatric,female,2,9
+17092023,1230,1340,140,yes,yes,followup,Urology,male,18,15
+17092023,1230,1340,140,no,no,followup,Oncology,female,19,15
+17092023,1230,1329,129,yes,yes,followup,Allergy and Immunology,female,58,13
+17092023,1230,1326,126,yes,yes,followup,Urology,female,64,13
+17092023,1230,1312,112,no,no,consultation,Urology,male,27,12
+17092023,1130,1326,156,yes,yes,consultation,Rheumatology,female,18,18
+17092023,1130,1305,135,yes,yes,consultation,Oncology,female,22,14
+17092023,1130,1305,135,yes,yes,consultation,Orthopedic,female,78,14
+17092023,1130,1220,50,yes,yes,followup,Neurology,male,32,7
+17092023,1130,1243,113,no,no,followup,Cardiology,female,72,12
+17092023,1130,1257,127,yes,yes,consultation,Pediatric,male,2,13
+17092023,1130,1305,135,no,no,followup,Orthopedic,female,32,14
+17092023,1130,1220,50,yes,yes,consultation,Gastroenterology,female,80,7
+17092023,1130,1257,127,yes,yes,consultation,Geriatric,male,46,13
+17092023,1130,1340,210,no,no,consultation,Pediatric,female,2,20
+17092023,1300,1355,55,yes,yes,followup,Pain Management,female,26,9
+17092023,1400,1440,40,no,no,consultation,Oncology,male,42,5
+17092023,1400,1440,40,yes,yes,consultation,Neurology,female,65,5
+17092023,1400,1440,40,yes,yes,consultation,Dermatology,male,40,5
+17092023,1400,1435,35,yes,yes,consultation,Neurology,male,51,4
+17092023,1400,1435,35,yes,yes,consultation,Cardiology,female,53,4
+17092023,1400,1435,35,yes,yes,consultation,Pediatric,male,2,4
+17092023,1400,1435,35,yes,yes,consultation,Oncology,female,60,4
+17092023,1400,1435,35,yes,yes,followup,Dermatology,female,19,4
+17092023,1400,1435,35,no,no,consultation,Orthopedic,female,29,4
+17092023,1400,1435,35,yes,yes,consultation,Psychiatry,male,70,4
+17092023,1600,1620,20,no,no,followup,Rheumatology,female,51,2
+17092023,1600,1620,20,yes,yes,followup,Pediatric,female,2,2
+17092023,1600,1620,20,no,no,followup,Orthopedic,female,70,2
+17092023,1430,1500,30,no,no,consultation,Neurology,female,46,3
+17092023,1430,1503,33,yes,yes,consultation,ENT,male,45,4
+17092023,1430,1500,30,no,no,consultation,Urology,female,41,3
+17092023,1430,1503,33,no,no,followup,Rheumatology,female,58,4
+17092023,1430,1500,30,yes,yes,consultation,Urology,male,69,3
+17092023,1430,1503,33,yes,yes,consultation,Rheumatology,female,63,4
+17092023,1230,1308,108,no,no,consultation,Orthopedic,female,47,9
+17092023,1230,1340,140,no,no,consultation,Neurology,male,18,15
+17092023,1230,1340,140,yes,yes,followup,Geriatric,male,80,15
+17092023,1230,1329,129,yes,yes,consultation,Geriatric,female,48,13
+17092023,1230,1326,126,yes,yes,followup,Pediatric,female,1,13
+17092023,1230,1312,112,no,no,consultation,Neurology,male,62,12
+17092023,1300,1355,55,yes,yes,followup,Urology,female,60,9
+17092023,1230,1308,108,no,no,followup,Orthopedic,male,46,9
+17092023,1230,1340,140,no,no,followup,ENT,male,72,15
+17092023,1300,1355,55,yes,yes,followup,Urology,female,61,9
+17092023,1300,1355,55,yes,yes,consultation,Psychiatry,female,32,9
+17092023,1300,1345,45,yes,yes,followup,Geriatric,female,67,6
+17092023,830,858,28,no,no,consultation,Orthopedic,female,49,3
+17092023,830,910,40,no,no,consultation,Allergy and Immunology,male,59,5
+17092023,830,921,51,no,no,consultation,Urology,female,31,7
+17092023,830,848,18,yes,yes,followup,Geriatric,male,44,2
+17092023,830,855,25,yes,yes,followup,Pain Management,female,31,2
+17092023,830,855,25,no,no,followup,Rheumatology,female,28,2
+17092023,830,852,22,yes,yes,followup,Pain Management,female,18,2
+17092023,830,910,40,yes,yes,consultation,Dermatology,male,44,5
+17092023,830,910,40,yes,yes,consultation,Neurology,female,41,5
+17092023,830,910,40,no,no,consultation,Oncology,male,25,5
+17092023,830,910,40,yes,yes,followup,Urology,male,37,5
+17092023,830,858,28,no,no,consultation,Geriatric,female,80,3
+17092023,830,910,40,yes,yes,consultation,Allergy and Immunology,male,39,5
+17092023,830,921,51,no,no,followup,ENT,female,24,7
+17092023,830,848,18,no,no,followup,Oncology,male,29,2
+17092023,830,855,25,no,no,followup,Psychiatry,male,64,2
+17092023,830,855,25,yes,yes,followup,Cardiology,female,44,2
+17092023,830,852,22,yes,yes,followup,Psychiatry,female,26,2
+17092023,830,910,40,no,no,consultation,Pain Management,male,42,5
+17092023,830,910,40,yes,yes,followup,Pain Management,female,25,5
+17092023,830,910,40,no,no,consultation,Dermatology,female,77,5
+17092023,830,910,40,no,no,consultation,Oncology,female,49,5
+17092023,830,858,28,no,no,consultation,Dermatology,female,38,3
+17092023,830,910,40,yes,yes,consultation,ENT,male,47,5
+17092023,830,921,51,yes,yes,consultation,Neurology,male,39,7
+17092023,830,848,18,yes,yes,followup,Pain Management,female,42,2
+17092023,830,855,25,yes,yes,consultation,Orthopedic,female,55,2
+17092023,830,855,25,no,no,followup,Allergy and Immunology,male,74,2
+17092023,830,852,22,yes,yes,followup,Allergy and Immunology,female,60,2
+17092023,830,910,40,yes,yes,followup,Oncology,male,70,5
+17092023,830,910,40,yes,yes,consultation,Geriatric,male,42,5
+17092023,830,910,40,no,no,consultation,Pain Management,female,56,5
+17092023,830,910,40,no,no,followup,Oncology,male,78,5
+17092023,900,940,40,yes,yes,followup,Psychiatry,female,38,5
+17092023,900,940,40,no,no,followup,Dermatology,male,34,5
+17092023,900,944,44,yes,yes,followup,Rheumatology,male,36,6
+17092023,900,944,44,yes,yes,consultation,Pain Management,female,37,6
+17092023,900,950,50,yes,yes,followup,Urology,male,34,7
+17092023,900,950,50,no,no,followup,Pain Management,male,22,7
+17092023,900,950,50,no,no,consultation,Urology,female,64,7
+17092023,900,950,50,yes,yes,consultation,Orthopedic,female,74,7
+17092023,900,950,50,yes,yes,followup,ENT,male,71,7
+17092023,900,940,40,no,no,followup,ENT,male,69,5
+17092023,900,940,40,no,no,followup,Orthopedic,female,75,5
+17092023,900,944,44,yes,yes,consultation,ENT,male,79,6
+17092023,900,944,44,no,no,followup,Psychiatry,female,75,6
+17092023,900,940,40,yes,yes,consultation,Geriatric,female,61,5
+17092023,900,940,40,no,no,consultation,Geriatric,male,34,5
+17092023,900,944,44,no,no,consultation,Cardiology,male,46,6
+17092023,900,944,44,no,no,followup,Cardiology,male,78,6
+17092023,900,950,50,no,no,followup,Geriatric,male,18,7
+17092023,900,950,50,no,no,consultation,Pain Management,female,46,7
+17092023,900,950,50,no,no,consultation,ENT,male,59,7
+17092023,900,950,50,yes,yes,consultation,Allergy and Immunology,female,26,7
+17092023,900,950,50,no,no,consultation,ENT,male,78,7
+17092023,900,940,40,yes,yes,followup,Orthopedic,female,37,5
+17092023,900,940,40,no,no,consultation,Oncology,female,36,5
+17092023,900,944,44,yes,yes,consultation,Gastroenterology,male,64,6
+17092023,900,944,44,no,no,consultation,Gastroenterology,male,21,6
+17092023,900,944,44,yes,yes,followup,ENT,female,62,6
+17092023,900,944,44,no,no,followup,Dermatology,male,38,6
+17092023,900,940,40,yes,yes,consultation,Geriatric,male,18,5
+17092023,900,940,40,no,no,followup,Psychiatry,male,52,5
+17092023,900,944,44,no,no,followup,Cardiology,male,30,6
+17092023,900,944,44,yes,yes,followup,Neurology,male,34,6
+17092023,900,950,50,yes,yes,consultation,Rheumatology,female,77,7
+17092023,900,950,50,yes,yes,followup,Neurology,male,46,7
+17092023,900,950,50,yes,yes,consultation,Psychiatry,female,30,7
+17092023,900,950,50,no,no,consultation,Pain Management,male,48,7
+17092023,900,950,50,no,no,followup,Allergy and Immunology,female,38,7
+17092023,900,940,40,yes,yes,consultation,Pediatric,female,1,5
+17092023,900,940,40,no,no,followup,Gastroenterology,male,51,5
+17092023,900,944,44,yes,yes,followup,Allergy and Immunology,female,63,6
+17092023,900,944,44,no,no,consultation,Oncology,male,53,6
+17092023,900,944,44,no,no,followup,Rheumatology,male,35,6
+17092023,900,944,44,yes,yes,followup,Oncology,female,37,6
+17092023,900,940,40,no,no,followup,Pediatric,male,1,5
+17092023,900,940,40,no,no,consultation,Dermatology,female,19,5
+17092023,900,944,44,no,no,consultation,Oncology,female,52,6
+17092023,900,944,44,yes,yes,consultation,Gastroenterology,female,60,6
+17092023,900,950,50,no,no,followup,Cardiology,female,47,7
+17092023,900,950,50,no,no,followup,Allergy and Immunology,female,66,7
+17092023,900,950,50,yes,yes,consultation,Psychiatry,male,27,7
+17092023,900,950,50,no,no,followup,Psychiatry,male,52,7
+17092023,900,950,50,yes,yes,consultation,Urology,male,20,7
+17092023,900,940,40,yes,yes,followup,Orthopedic,male,26,5
+17092023,900,940,40,no,no,followup,Allergy and Immunology,female,63,5
+17092023,900,944,44,yes,yes,consultation,Neurology,male,35,6
+17092023,900,944,44,yes,yes,followup,Orthopedic,male,66,6
+17092023,900,944,44,yes,yes,consultation,Dermatology,female,25,6
+17092023,900,944,44,yes,yes,followup,Urology,female,24,6
+17092023,900,940,40,no,no,consultation,Geriatric,female,54,5
+17092023,900,940,40,yes,yes,followup,Gastroenterology,male,53,5
+17092023,900,944,44,no,no,consultation,Dermatology,female,35,6
+17092023,900,944,44,yes,yes,consultation,Oncology,male,67,6
+17092023,900,950,50,yes,yes,consultation,Urology,male,76,7
+17092023,900,950,50,no,no,consultation,Cardiology,male,56,7
+17092023,900,950,50,yes,yes,consultation,Allergy and Immunology,female,48,7
+17092023,900,950,50,yes,yes,followup,Pain Management,male,25,7
+17092023,900,950,50,no,no,consultation,Neurology,female,30,7
+17092023,900,940,40,no,no,consultation,Pain Management,female,38,5
+17092023,900,940,40,no,no,consultation,Urology,female,26,5
+17092023,900,944,44,no,no,consultation,ENT,male,34,6
+17092023,900,944,44,no,no,followup,Gastroenterology,male,20,6
+17092023,930,1025,55,yes,yes,consultation,Oncology,female,63,9
+17092023,930,1025,55,no,no,consultation,Gastroenterology,male,57,9
+17092023,930,1015,45,yes,yes,consultation,Pain Management,male,63,6
+17092023,930,1015,45,no,no,followup,Cardiology,male,39,6
+17092023,930,1015,45,yes,yes,followup,ENT,male,57,6
+17092023,930,1025,55,no,no,followup,Oncology,female,72,9
+17092023,930,1025,55,no,no,followup,Dermatology,female,19,9
+17092023,930,1015,45,yes,yes,consultation,Urology,female,37,6
+17092023,930,1025,55,yes,yes,followup,Allergy and Immunology,male,39,9
+17092023,930,1025,55,yes,yes,consultation,Rheumatology,male,67,9
+17092023,930,1015,45,no,no,followup,Allergy and Immunology,male,69,6
+17092023,930,1015,45,yes,yes,followup,Geriatric,female,43,6
+17092023,930,1015,45,no,no,consultation,Rheumatology,male,80,6
+17092023,930,1025,55,no,no,followup,Pediatric,female,1,9
+17092023,930,1025,55,no,no,followup,Urology,female,45,9
+17092023,930,1015,45,no,no,consultation,Psychiatry,male,34,6
+17092023,930,1025,55,no,no,followup,Gastroenterology,female,27,9
+17092023,930,1025,55,yes,yes,followup,Allergy and Immunology,male,50,9
+17092023,930,1015,45,no,no,followup,Rheumatology,male,54,6
+17092023,930,1015,45,yes,yes,consultation,Cardiology,female,64,6
+17092023,930,1015,45,no,no,consultation,Oncology,male,74,6
+17092023,930,1025,55,yes,yes,consultation,ENT,male,41,9
+17092023,930,1025,55,yes,yes,followup,Dermatology,male,47,9
+17092023,930,1015,45,yes,yes,followup,Psychiatry,male,74,6
+17092023,930,1025,55,no,no,consultation,Pain Management,male,66,9
+17092023,930,1025,55,yes,yes,followup,Geriatric,female,35,9
+17092023,930,1015,45,yes,yes,consultation,Psychiatry,male,30,6
+17092023,930,1015,45,yes,yes,followup,Oncology,female,57,6
+17092023,930,1015,45,no,no,followup,Orthopedic,female,34,6
+17092023,930,1025,55,no,no,consultation,Neurology,male,31,9
+17092023,930,1025,55,yes,yes,consultation,Psychiatry,female,34,9
+17092023,930,1015,45,yes,yes,followup,Oncology,female,80,6
+17092023,930,1025,55,no,no,consultation,Rheumatology,female,21,9
+17092023,930,1025,55,yes,yes,consultation,ENT,male,73,9
+17092023,930,1015,45,yes,yes,followup,ENT,female,23,6
+17092023,930,1015,45,yes,yes,consultation,Rheumatology,male,18,6
+17092023,930,1015,45,yes,yes,followup,Urology,male,48,6
+17092023,930,1025,55,yes,yes,followup,Psychiatry,female,73,9
+17092023,930,1025,55,yes,yes,followup,Gastroenterology,female,53,9
+17092023,930,1015,45,yes,yes,followup,Dermatology,female,26,6
+17092023,930,1025,55,yes,yes,consultation,Orthopedic,male,33,9
+17092023,930,1025,55,no,no,consultation,Psychiatry,male,65,9
+17092023,930,1015,45,yes,yes,followup,Neurology,female,61,6
+17092023,930,1015,45,yes,yes,consultation,Urology,male,27,6
+17092023,930,1015,45,no,no,followup,Neurology,female,54,6
+17092023,930,1025,55,no,no,followup,Psychiatry,male,22,9
+17092023,930,1025,55,no,no,consultation,Oncology,female,78,9
+17092023,930,1015,45,yes,yes,consultation,Orthopedic,female,30,6
+17092023,930,1025,55,no,no,consultation,Pediatric,male,1,9
+17092023,930,1025,55,no,no,followup,Pediatric,male,1,9
+17092023,930,1015,45,no,no,followup,Pediatric,male,1,6
+17092023,930,1015,45,yes,yes,followup,Rheumatology,male,41,6
+17092023,930,1015,45,yes,yes,followup,ENT,male,27,6
+17092023,930,1025,55,no,no,followup,Pain Management,male,62,9
+17092023,930,1025,55,no,no,consultation,Dermatology,female,31,9
+17092023,930,1015,45,no,no,followup,Allergy and Immunology,male,60,6
+17092023,1100,1203,103,no,no,followup,Urology,male,63,9
+17092023,1100,1213,113,yes,yes,followup,Pain Management,male,24,12
+17092023,1100,1213,113,yes,yes,consultation,Pediatric,male,1,12
+17092023,1100,1203,103,no,no,followup,Geriatric,male,47,9
+17092023,1100,1203,103,yes,yes,consultation,Orthopedic,female,33,9
+17092023,1100,1203,103,yes,yes,followup,Orthopedic,male,75,9
+17092023,1100,1213,113,no,no,consultation,Pain Management,male,58,12
+17092023,1100,1213,113,yes,yes,consultation,Orthopedic,male,39,12
+17092023,1100,1203,103,yes,yes,consultation,Geriatric,male,37,9
+17092023,1100,1203,103,no,no,consultation,Oncology,male,41,9
+17092023,1100,1203,103,yes,yes,consultation,Psychiatry,male,57,9
+17092023,1100,1213,113,yes,yes,consultation,Neurology,male,73,12
+17092023,1100,1213,113,no,no,consultation,Urology,female,77,12
+17092023,1100,1203,103,yes,yes,followup,ENT,female,56,9
+17092023,1100,1203,103,no,no,followup,Pediatric,female,1,9
+17092023,1100,1203,103,yes,yes,followup,Gastroenterology,female,45,9
+17092023,1100,1213,113,no,no,consultation,Urology,male,64,12
+17092023,1100,1213,113,yes,yes,consultation,ENT,male,43,12
+17092023,1100,1203,103,no,no,consultation,ENT,female,44,9
+17092023,1100,1203,103,yes,yes,consultation,Pain Management,male,49,9
+17092023,1100,1203,103,yes,yes,consultation,Rheumatology,female,45,9
+17092023,1100,1213,113,yes,yes,followup,Cardiology,male,19,12
+17092023,1100,1213,113,yes,yes,consultation,Cardiology,female,29,12
+17092023,1100,1203,103,yes,yes,followup,Allergy and Immunology,female,70,9
+17092023,1100,1203,103,yes,yes,consultation,Pediatric,female,1,9
+17092023,1100,1203,103,yes,yes,consultation,Pain Management,male,68,9
+17092023,1100,1213,113,yes,yes,followup,Psychiatry,female,61,12
+17092023,1100,1213,113,no,no,consultation,Rheumatology,female,61,12
+17092023,1100,1203,103,no,no,followup,Allergy and Immunology,female,25,9
+17092023,1100,1203,103,yes,yes,followup,Dermatology,male,55,9
+17092023,1100,1203,103,yes,yes,consultation,Oncology,male,70,9
+17092023,1100,1213,113,yes,yes,followup,Allergy and Immunology,female,57,12
+17092023,1100,1213,113,no,no,followup,Geriatric,female,63,12
+17092023,1100,1203,103,yes,yes,consultation,Pain Management,female,34,9
+17092023,1100,1203,103,no,no,followup,Pediatric,male,1,9
+17092023,1100,1203,103,yes,yes,followup,Urology,female,65,9
+17092023,1100,1213,113,no,no,consultation,Gastroenterology,female,44,12
+17092023,1100,1213,113,yes,yes,consultation,Orthopedic,female,57,12
+17092023,1100,1203,103,no,no,followup,ENT,female,75,9
+17092023,1100,1203,103,no,no,consultation,Gastroenterology,male,48,9
+17092023,1100,1203,103,no,no,followup,Dermatology,female,35,9
+17092023,1100,1213,113,yes,yes,followup,Gastroenterology,female,59,12
+17092023,1100,1213,113,yes,yes,followup,Oncology,male,45,12
+17092023,1100,1203,103,yes,yes,consultation,Pediatric,female,1,9
+17092023,1100,1203,103,yes,yes,consultation,Psychiatry,male,73,9
+17092023,1100,1203,103,no,no,followup,Rheumatology,male,40,9
+17092023,1100,1213,113,no,no,consultation,Pain Management,male,80,12
+17092023,1100,1213,113,yes,yes,followup,Rheumatology,female,72,12
+17092023,1100,1203,103,no,no,consultation,Orthopedic,male,71,9
+17092023,1100,1203,103,yes,yes,followup,Allergy and Immunology,female,24,9
+17092023,1300,1345,45,yes,yes,followup,Neurology,male,23,6
+17092023,1300,1345,45,yes,yes,followup,Dermatology,female,48,6
+17092023,1300,1345,45,yes,yes,followup,Neurology,female,58,6
+17092023,1300,1345,45,no,no,followup,ENT,female,72,6
+17092023,1300,1345,45,yes,yes,consultation,ENT,female,44,6
+17092023,1300,1345,45,yes,yes,consultation,Cardiology,female,50,6
+17092023,1300,1355,55,no,no,followup,Psychiatry,female,43,9
+17092023,1300,1355,55,yes,yes,consultation,Orthopedic,female,51,9
+17092023,1300,1355,55,yes,yes,consultation,Pediatric,male,1,9
+17092023,1300,1355,55,no,no,followup,Orthopedic,female,74,9
+17092023,1300,1345,45,yes,yes,followup,Urology,male,55,6
+17092023,1300,1345,45,yes,yes,followup,Pain Management,male,77,6
+17092023,1300,1345,45,yes,yes,followup,Rheumatology,female,38,6
+17092023,1300,1345,45,yes,yes,consultation,ENT,male,48,6
+17092023,1300,1345,45,no,no,followup,Psychiatry,female,32,6
+17092023,1300,1345,45,yes,yes,followup,Orthopedic,female,31,6
+17092023,1300,1345,45,yes,yes,consultation,Dermatology,male,36,6
+17092023,1300,1355,55,no,no,consultation,Psychiatry,female,30,9
+17092023,1300,1355,55,yes,yes,consultation,Cardiology,male,66,9
+17092023,1300,1355,55,no,no,consultation,Neurology,female,22,9
+17092023,1300,1355,55,no,no,followup,Rheumatology,male,52,9
+17092023,1300,1345,45,yes,yes,consultation,Cardiology,male,27,6
+17092023,1330,1410,40,yes,yes,consultation,Rheumatology,male,25,5
+17092023,1330,1409,39,no,no,consultation,Urology,female,18,5
+17092023,1330,1410,40,yes,yes,consultation,Cardiology,female,70,5
+17092023,1330,1420,50,no,no,followup,Psychiatry,female,60,7
+17092023,1330,1410,40,no,no,consultation,Orthopedic,male,63,5
+17092023,1330,1409,39,yes,yes,consultation,Gastroenterology,male,42,5
+17092023,1330,1410,40,yes,yes,consultation,Allergy and Immunology,male,57,5
+17092023,1330,1420,50,no,no,consultation,Gastroenterology,female,78,7
+17092023,1400,1435,35,no,no,consultation,Pain Management,male,31,4
+17092023,1400,1435,35,no,no,consultation,Gastroenterology,female,30,4
+17092023,1400,1435,35,yes,yes,consultation,Dermatology,male,61,4
+17092023,1400,1435,35,yes,yes,consultation,Pediatric,female,1,4
+17092023,1400,1435,35,yes,yes,consultation,Allergy and Immunology,male,68,4
+17092023,1400,1435,35,yes,yes,followup,Allergy and Immunology,male,52,4
+17092023,1430,1500,30,yes,yes,followup,Psychiatry,female,21,3
+17092023,1430,1503,33,yes,yes,consultation,Allergy and Immunology,female,59,4
+17092023,1430,1500,30,no,no,followup,ENT,female,77,3
+17092023,1430,1503,33,no,no,followup,Pain Management,female,79,4
+17092023,1430,1503,33,yes,yes,consultation,Oncology,male,77,4
+17092023,1430,1500,30,yes,yes,followup,Gastroenterology,male,74,3
+17092023,1430,1503,33,yes,yes,consultation,Psychiatry,male,71,4
+17092023,1430,1500,30,yes,yes,consultation,Cardiology,male,78,3
+17092023,1430,1503,33,no,no,followup,Oncology,female,46,4
+17092023,1430,1500,30,yes,yes,consultation,Dermatology,female,36,3
+17092023,1430,1503,33,no,no,consultation,Geriatric,female,62,4
+17092023,1430,1503,33,no,no,followup,Urology,male,48,4
+17092023,1430,1500,30,no,no,followup,Gastroenterology,female,47,3
+17092023,1430,1503,33,no,no,followup,Dermatology,male,76,4
+17092023,1430,1500,30,yes,yes,consultation,Neurology,male,36,3
+17092023,1330,1409,39,no,no,followup,Allergy and Immunology,female,30,5
+17092023,1330,1410,40,yes,yes,consultation,ENT,female,20,5
+17092023,1330,1420,50,yes,yes,consultation,Urology,female,67,7
+17092023,1330,1410,40,yes,yes,consultation,Urology,male,28,5
+17092023,1330,1409,39,yes,yes,followup,Cardiology,male,71,5
+17092023,1330,1410,40,no,no,followup,Oncology,female,36,5
+17092023,1330,1420,50,yes,yes,consultation,Psychiatry,male,56,7
+17092023,1530,1548,18,yes,yes,consultation,ENT,male,39,2
+17092023,1530,1558,28,no,no,consultation,ENT,male,48,3
+17092023,1530,1557,27,no,no,consultation,Rheumatology,female,54,3
+17092023,1530,1548,18,yes,yes,followup,Gastroenterology,male,19,2
+17092023,1530,1558,28,no,no,followup,Allergy and Immunology,female,44,3
+17092023,1530,1548,18,no,no,followup,Neurology,female,29,2
+17092023,1530,1558,28,yes,yes,followup,Orthopedic,female,27,3
+17092023,1530,1557,27,no,no,followup,Orthopedic,male,50,3
+17092023,1530,1548,18,yes,yes,consultation,Geriatric,male,31,2
+17092023,1530,1558,28,no,no,consultation,Psychiatry,female,34,3
+17092023,1600,1620,20,yes,yes,followup,Orthopedic,male,48,2
+17092023,1600,1620,20,no,no,followup,Rheumatology,female,31,2
+17092023,1600,1620,20,no,no,followup,Allergy and Immunology,male,73,2
+17092023,1600,1620,20,yes,yes,consultation,Rheumatology,female,61,2
+17092023,1600,1620,20,yes,yes,consultation,Rheumatology,male,23,2
+17092023,1600,1620,20,no,no,followup,Allergy and Immunology,male,36,2
+17092023,1600,1620,20,no,no,followup,Allergy and Immunology,female,74,2
+17092023,1600,1620,20,yes,yes,followup,Orthopedic,female,52,2
+17092023,1600,1620,20,yes,yes,followup,Geriatric,female,69,2
+17092023,1600,1620,20,no,no,consultation,Psychiatry,female,24,2
+17092023,1700,1714,14,no,no,consultation,Neurology,female,21,1
+17092023,1700,1714,14,no,no,followup,Orthopedic,female,71,1
+17092023,1700,1714,14,no,no,followup,Allergy and Immunology,male,67,1
+17092023,1700,1714,14,yes,yes,followup,Rheumatology,male,58,1
+17092023,1700,1714,14,yes,yes,followup,Pediatric,male,3,1
+17092023,1700,1714,14,no,no,followup,Pain Management,female,39,1
+17092023,1700,1714,14,yes,yes,followup,Psychiatry,female,47,1
+17092023,1700,1714,14,no,no,consultation,ENT,female,28,1
+17092023,1730,1745,15,yes,yes,followup,Urology,male,56,1
+17092023,1730,1748,18,yes,yes,followup,Urology,female,18,2
+17092023,1730,1749,19,no,no,consultation,Neurology,male,43,2
+17092023,1730,1749,19,no,no,followup,Urology,female,28,2
+17092023,1730,1745,15,no,no,followup,Allergy and Immunology,female,28,1
+17092023,1730,1748,18,no,no,consultation,Geriatric,female,70,2
+17092023,1730,1745,15,yes,yes,consultation,Orthopedic,male,27,1
+17092023,1730,1748,18,yes,yes,followup,Dermatology,female,37,2
+17092023,1730,1749,19,yes,yes,followup,Orthopedic,male,60,2
+17092023,1730,1749,19,yes,yes,consultation,Allergy and Immunology,male,23,2
+17092023,1730,1745,15,no,no,followup,Dermatology,male,41,1
+17092023,1730,1748,18,yes,yes,consultation,Urology,male,42,2
+17092023,1730,1745,15,yes,yes,followup,Gastroenterology,male,63,1
+17092023,1800,1810,10,yes,yes,followup,Pediatric,female,3,1
+17092023,1800,1810,10,no,no,consultation,Orthopedic,male,64,1
+17092023,1800,1806,6,yes,yes,followup,Geriatric,female,20,1
+17092023,1800,1807,7,yes,yes,followup,Urology,male,40,1
+17092023,1800,1810,10,no,no,followup,ENT,male,35,1
+17092023,1800,1810,10,yes,yes,followup,Neurology,female,23,1
+17092023,1800,1810,10,no,no,followup,Urology,female,79,1
+17092023,1800,1810,10,yes,yes,followup,Allergy and Immunology,male,34,1
+17092023,1630,1653,23,no,no,consultation,Geriatric,female,20,2
+17092023,1630,1653,23,no,no,followup,Dermatology,male,77,2
+17092023,1500,1532,32,no,no,consultation,Geriatric,male,56,4
+17092023,1500,1532,32,no,no,consultation,ENT,male,60,4
+17092023,1500,1532,32,no,no,consultation,ENT,female,54,4
+17092023,1500,1530,30,no,no,followup,Allergy and Immunology,male,20,3
+17092023,1500,1530,30,yes,yes,followup,Gastroenterology,female,43,3
+17092023,1530,1548,18,no,no,followup,Rheumatology,female,59,2
+17092023,1530,1558,28,yes,yes,consultation,Cardiology,male,26,3
+17092023,1530,1557,27,yes,yes,consultation,Cardiology,male,58,3
+17092023,1600,1620,20,yes,yes,followup,Oncology,female,77,2
+17092023,1600,1620,20,no,no,consultation,Gastroenterology,male,57,2
+17092023,1600,1620,20,no,no,followup,Geriatric,male,79,2
+17092023,1700,1714,14,no,no,followup,Pediatric,male,3,1
+17092023,1700,1714,14,no,no,consultation,Cardiology,male,47,1
+17092023,1400,1435,35,yes,yes,followup,Dermatology,male,56,4
+17092023,1400,1435,35,no,no,followup,Psychiatry,female,33,4
+17092023,1400,1435,35,no,no,followup,Urology,female,51,4
+17092023,1400,1435,35,no,no,followup,Neurology,male,60,4
+17092023,1400,1435,35,no,no,consultation,Geriatric,female,42,4
+17092023,1400,1435,35,no,no,consultation,ENT,male,61,4
+17092023,1400,1435,35,yes,yes,followup,Gastroenterology,male,43,4
+17092023,1400,1435,35,no,no,consultation,Rheumatology,male,27,4
